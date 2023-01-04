@@ -22,8 +22,8 @@ function displayCurrentItem() {
   // Set the src attribute of the img element to the path of the image you want to display
   imgElement.src = tekst;
   // Set the width and height of the image (optional)
-  imgElement.width = '300';
-  imgElement.height = '400';
+  imgElement.width = '400';
+  imgElement.height = '550';
 
   // Clear the innerHTML of the currentItem element
   currentItem.innerHTML = '';
